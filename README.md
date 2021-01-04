@@ -14,6 +14,6 @@ The question panes are divided into left and right choices.
 Design your questions and put them in two seperate folders named Left and Right.
 
 [![Change question sequences](https://img.youtube.com/vi/ysQobOUGe9k/maxresdefault.jpg)](https://www.youtube.com/watch?v=ysQobOUGe9k)
-
+Click the image to view Youtube video
 
 :computer: with :heart: by [@theodore.bm](https://www.instagram.com/theodore.bm/)
