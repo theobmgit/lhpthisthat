@@ -11,7 +11,7 @@ Here's how to change the head logo. Analogously to the ending question.
 <h2>Change question sequences</h2>
 The question panes are divided into left and right choices.
 Design your questions and put them in two seperate folders named Left and Right.
-![Change question sequences](https://img.youtube.com/vi/ysQobOUGe9k/0.jpg)](https://www.youtube.com/watch?v=ysQobOUGe9k)
+[![Change question sequences](https://img.youtube.com/vi/ysQobOUGe9k/0.jpg)](https://www.youtube.com/watch?v=ysQobOUGe9k)
 Remember to save your projects!
 
 :computer: with :heart: by [@theodore.bm](https://www.instagram.com/theodore.bm/)
